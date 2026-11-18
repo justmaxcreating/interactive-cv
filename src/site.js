@@ -282,7 +282,6 @@ function initLangHint() {
   try {
     if (sessionStorage.getItem('cv-hint')) return;
     if (store.get()) showLang = false;
-    if (localStorage.getItem('cv-theme')) showTheme = false;
   } catch { /* storage blocked: show both */ }
   if (currentTheme() !== 'dark') showTheme = false;
   if (!showLang && !showTheme) return;

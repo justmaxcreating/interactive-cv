@@ -52,6 +52,7 @@ function langSwitch(c) {
 function renderHeader(c) {
   return `<header class="topbar">
     <div class="wrap topbar-in">
+      <span class="mark-full" aria-hidden="true">${esc(c.contact.name)}</span>
       <nav class="nav" aria-label="Main">
         <a href="#projects">${esc(c.ui.nav_projects)}</a>
         <a href="#experience">${esc(c.ui.nav_experience)}</a>

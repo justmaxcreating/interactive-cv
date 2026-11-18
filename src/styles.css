@@ -95,6 +95,12 @@ mark.todo { background: #FFE58A; color: var(--black); padding: 0 .25em; border-r
 .mark { font-weight: 800; text-transform: uppercase; letter-spacing: -.02em; font-size: 1rem; text-decoration: none; white-space: nowrap; }
 .mark .dot { color: var(--red); font-size: 1.35em; line-height: 0; }
 .nav { display: none; gap: 28px; margin-left: auto; }
+/* Desktop: the full name appears in the header only once the hero (where it already stands) is scrolled away */
+.mark-full { display: none; font-weight: 600; font-size: .9375rem; letter-spacing: -.01em; white-space: nowrap; opacity: 0; transform: translateY(-4px); transition: opacity .4s var(--ease), transform .4s var(--ease); }
+@media (min-width: 768px) {
+  .mark-full { display: block; }
+  .past-hero .mark-full { opacity: 1; transform: none; }
+}
 .nav a { position: relative; text-decoration: none; font-weight: 500; font-size: .9375rem; }
 .nav a::after { content: ''; position: absolute; left: 0; bottom: -2px; height: 2px; width: 100%; background: var(--red); transform: scaleX(0); transform-origin: 0 50%; transition: transform .35s var(--ease); }
 .nav a:hover::after { transform: scaleX(1); }
