@@ -1,0 +1,18 @@
+# dependencies and build output
+node_modules
+dist
+.build
+out
+deploy
+Max-CV-lokal.html
+
+# private: phone number, client media, secrets, local tooling
+content/private.json
+media
+.env
+.netlify
+.claude
+
+# macOS
+._*
+.DS_Store

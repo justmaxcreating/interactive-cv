@@ -1,0 +1,440 @@
+{
+  "lang": "en",
+  "locale": "en-US",
+  "meta": {
+    "title": "Maximilian Nitsche | AI Solutions & Creative Technologist",
+    "description": "Maximilian Nitsche builds generative AI production systems for marketing teams: campaign pipelines, dashboards and client tools. CV and selected projects.",
+    "og_locale": "en_US",
+    "pdf_subject": "CV of Maximilian Nitsche, AI Solutions & Creative Technologist",
+    "pdf_title": "Maximilian Nitsche, CV"
+  },
+  "ui": {
+    "skip": "Skip to content",
+    "nav_projects": "Projects",
+    "nav_experience": "Experience",
+    "nav_contact": "Contact",
+    "lang_label": "Language",
+    "theme_label": "Light or dark theme",
+    "btn_cv": "CV (PDF)",
+    "btn_contact": "Contact",
+    "btn_linkedin": "LinkedIn",
+    "open_to": "Open to remote and Munich",
+    "portrait_alt": "Portrait of Maximilian Nitsche",
+    "impact_title": "Impact in *numbers*",
+    "projects_title": "Selected *projects*",
+    "projects_intro": "Systems I designed and built, most of them running in production every day. Select a project for the details.",
+    "project_open": "View project",
+    "experience_title": "Work *experience*",
+    "tools_title": "The *toolstack*",
+    "education_title": "Education & *languages*",
+    "languages_label": "Languages",
+    "contact_title": "Let's *talk.*",
+    "contact_intro": "Open to roles in AI deployment, solutions and creative technology. Based in Würzburg, open to remote and Munich.",
+    "contact_email": "Email",
+    "contact_linkedin": "LinkedIn",
+    "contact_downloads": "Downloads",
+    "elevion_teaser": "Want to know more about what I do at *Elevion*, my AI-native performance design studio for D2C brands and agencies?",
+    "elevion_cta": "Visit elevion.studio",
+    "new_tab": "opens in a new tab",
+    "download_en": "CV in English (PDF)",
+    "download_de": "Lebenslauf auf Deutsch (PDF)",
+    "d_context": "Challenge",
+    "d_solution": "What I built",
+    "d_stack": "Stack",
+    "d_result": "Result",
+    "d_link": "Open live",
+    "close": "Close",
+    "image_placeholder": "Image follows",
+    "footer_imprint": "Imprint",
+    "footer_privacy": "Privacy",
+    "footer_note": "Built by Maximilian Nitsche with Claude Code.",
+    "d_video": "Video",
+    "video_load": "Play video",
+    "video_note": "Loads the video from Google Drive. Google may set cookies."
+  },
+  "pdf": {
+    "interactive_q": "Why should a CV be boring in the age of AI?",
+    "interactive_cta": "Here is the interactive version with project demos and videos:",
+    "h_profile": "Profile",
+    "h_experience": "Experience",
+    "h_education": "Education",
+    "h_skills": "Skills",
+    "h_languages": "Languages",
+    "h_interests": "Interests",
+    "l_email": "Email",
+    "l_phone": "Phone",
+    "l_linkedin": "LinkedIn",
+    "l_website": "Website",
+    "l_location": "Location"
+  },
+  "contact": {
+    "name": "Maximilian Nitsche",
+    "title": "AI Solutions & Creative Technologist",
+    "location": "Würzburg, Germany (open to remote and Munich)",
+    "location_short": "Würzburg, Germany",
+    "email": "maximiliannitsche@proton.me",
+    "linkedin": "https://www.linkedin.com/in/maximilian-nitsche-852201330",
+    "linkedin_label": "linkedin.com/in/maximilian-nitsche-852201330",
+    "website": "https://elevion.studio/max",
+    "website_label": "elevion.studio/max"
+  },
+  "hero": {
+    "claim": "I turn generative AI into production systems for marketing teams: campaign pipelines, dashboards and client tools that ship real work every day."
+  },
+  "profile": "AI Solutions & Creative Technologist with a background in media communication and advertising research. At Hammerjobs, a recruiting agency for industrial and skilled-trades talent, I own end-to-end campaign execution for 42 live clients and roughly €30,000 in monthly Meta ad spend. I built the AI pipelines behind it with Claude Code: automated campaign production, a performance dashboard on top of the Meta and ATS APIs, and an automated social media production with a client review portal. On the side, I run Elevion, an AI-native performance design studio for DACH brands and agencies. I work at the intersection of strategy, creative and technology, and I translate what models can do into workflows people actually use.",
+  "profile_variants": {
+    "deployment_strategist": "AI Solutions & Creative Technologist who takes generative AI from idea to daily use inside marketing teams. At Hammerjobs, a recruiting agency for industrial and skilled-trades talent, I own end-to-end campaign execution for 42 live clients and roughly €30,000 in monthly Meta ad spend, and I built the systems behind it with Claude Code: automated campaign production, a performance dashboard on top of the Meta and ATS APIs, and an automated social media production with a client review portal. I run weekly performance reviews with management and translate what models can do into workflows people actually use.",
+    "solutions_engineer": "AI Solutions & Creative Technologist who builds LLM integrations and workflow automation for marketing teams. With Claude Code and the Claude and OpenAI APIs I built production systems at Hammerjobs that connect the Meta Marketing API and an in-house ATS API: automated campaign production (about 90% less time per campaign), a performance dashboard across 40+ accounts and an automated social media production with a client review portal. With a background in media communication and advertising research, I connect technical solutions to business outcomes.",
+    "creative_technologist": "AI Solutions & Creative Technologist at the intersection of creative and technology. I lead all media production at Hammerjobs and run Elevion, an AI-native performance design studio for DACH brands and agencies, producing ad creative with Nano Banana, Midjourney, Flux and Figma. I also build the tooling: custom Claude Skills for editorial and analog-film image generation, Figma automation via the Figma MCP for localization, and AI pipelines that cut production time per campaign by about 90%."
+  },
+  "impact": [
+    {
+      "value": 42,
+      "prefix": "",
+      "suffix": "",
+      "label": "live recruiting clients",
+      "note": "campaigns executed end to end"
+    },
+    {
+      "value": 1,
+      "prefix": "€",
+      "suffix": "M+",
+      "label": "ad spend on creatives I produced",
+      "note": "Recruiting agency, Elevion clients and earlier projects"
+    },
+    {
+      "value": 90,
+      "prefix": "",
+      "suffix": "%",
+      "label": "less time per campaign through my automation",
+      "note": "from about 2.5 hours to about 15 minutes, including review"
+    },
+    {
+      "value": 20,
+      "prefix": "",
+      "suffix": "%",
+      "label": "positive reply rate on cold email outreach for Elevion",
+      "note": "lists of 1,000+ DACH leads"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Hammerjobs",
+      "location": "remote",
+      "positions": [
+        {
+          "title": "Performance Creative Technologist",
+          "dates": "Feb 2026 to Present"
+        },
+        {
+          "title": "HR Content Creator",
+          "dates": "Nov 2024 to Feb 2026"
+        }
+      ],
+      "description": "Recruiting agency for industrial and skilled-trades roles (service technicians, mechatronics and electronics technicians).",
+      "bullets": [
+        "Own end-to-end campaign execution for 42 live clients, managing about €30,000 in monthly Meta ad spend (about €360,000 per year), from targeting and creative to optimization and weekly performance reviews with management.",
+        "Automated campaign production with Claude Code and LLM pipelines (Claude and OpenAI APIs): cut production time per campaign (visuals, ad copy and landing page) by about 90%, from about 2.5 hours to about 15 minutes including review.",
+        "Built an AI-assisted performance dashboard that combines data from the Meta Marketing API and the in-house ATS API, so management can spot underperforming clients and bottlenecks at a glance across 40+ accounts.",
+        "Designed and built a fully automated social media production: custom skills turn client material (photos, videos), web research and strategy into finished Instagram and Facebook posts with authentic, humorous copy, a full year of content at the push of a button. Delivered through a custom review portal where clients see posts as they will appear on Instagram, comment and mark feedback as resolved. Delivered several client packages solo; clients praised the simplicity.",
+        "Lead all media production for the agency: AI-generated imagery above market standard, ad copy, landing pages, video editing and ads.",
+        "Create performance reports for key accounts including Unternehmensgruppe Müller, supporting retention of major clients.",
+        "Run cold email outbound for new client acquisition (Lemlist, Instantly): 0.5% email-to-client conversion with a 2% positive reply rate. Initiated an in-house lead pipeline from job ad scraping and Clay enrichment; the approach was adopted by the whole team and saves several hundred euros per month on lead software.",
+        "Created a master prompt system with JSON schema to generate recruiting ad copy, benefit and task rewrites at scale."
+      ]
+    },
+    {
+      "company": "Elevion (elevion.studio)",
+      "location": "",
+      "positions": [
+        {
+          "title": "Founder",
+          "dates": "Nov 2025 to Present"
+        }
+      ],
+      "description": "AI-native performance design studio for D2C brands and agencies in the DACH region.",
+      "bullets": [
+        "Produce static ad creative with generative AI (Nano Banana, Midjourney, Flux) and Figma for clients including fonio.ai (Vienna, AI phone assistant) and Teeth Lovers (D2C oral care). The fonio.ai ads were validated across multiple markets and ran for months; the top 3 alone generated several million impressions in DACH.",
+        "Built a localization workflow that adapts ad creatives directly in Figma via Claude Code and the Figma MCP.",
+        "Built custom Claude Skills for editorial and analog-film image generation (camera, lens and film stock systems) that standardize creative quality across projects.",
+        "Built Mnemos (elevion.studio/mnemos), an ad tracking tool that monitors competitor ads and their reach, as a better alternative to the Meta Ad Library (Claude Code, Supabase).",
+        "Ran cold email outbound to 1,000+ DACH leads with a positive reply rate of about 20%.",
+        "Built a Creative Fatigue Calculator as a bilingual lead magnet (HTML, Netlify Forms)."
+      ]
+    },
+    {
+      "company": "Self-employed",
+      "location": "",
+      "positions": [
+        {
+          "title": "Freelance Designer & AI Solutions",
+          "dates": "Nov 2023 to Present"
+        }
+      ],
+      "description": "",
+      "bullets": [
+        "Web design, e-commerce store design, ad design, AI image generation and AI automation for small businesses and brands.",
+        "Example: website for the restaurant Das Kabinett in Sulzfeld am Main (kabinettsulzfeld.de), a small, intentionally simple project built within a few hours."
+      ]
+    },
+    {
+      "company": "Vogel Communications Group (Vogel Research)",
+      "location": "Würzburg",
+      "positions": [
+        {
+          "title": "Working Student, Market Research",
+          "dates": "Aug 2023 to Sep 2024"
+        }
+      ],
+      "description": "",
+      "bullets": [
+        "Conducted market research, data analysis and report creation for B2B media and industry clients.",
+        "Owned media production for the research team and optimized the online shop.",
+        "Produced an elaborate video intro (After Effects, Midjourney) for a keynote on AI in marketing, which was highly praised internally."
+      ]
+    },
+    {
+      "company": "MediaAnalyzer",
+      "location": "Hamburg",
+      "positions": [
+        {
+          "title": "Student Intern, Advertising Research",
+          "dates": "Apr 2023 to Jul 2023"
+        }
+      ],
+      "description": "",
+      "bullets": [
+        "Analyzed advertising pretests (including TV spots) for major German retail and FMCG brands and prepared reports with recommendations on which creative direction to pursue."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. Media Communication",
+      "school": "Julius-Maximilians-Universität Würzburg",
+      "dates": "Oct 2019 to Sep 2023",
+      "bullets": [
+        "Final grade 1.7 (German scale, 1.0 is the best grade)",
+        "Bachelor's thesis (grade 1.0): How epistemic beliefs shape people's attitudes toward fact-checking"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "group": "AI & Building",
+      "items": [
+        "Claude Code",
+        "Claude API",
+        "OpenAI API",
+        "MCP integrations",
+        "Claude Skills",
+        "prompt engineering",
+        "Supabase",
+        "GitHub",
+        "Netlify",
+        "REST APIs",
+        "webhooks",
+        "JSON"
+      ]
+    },
+    {
+      "group": "Automation & Growth",
+      "items": [
+        "Make.com",
+        "n8n",
+        "Clay",
+        "Apify",
+        "Lemlist",
+        "Instantly",
+        "LinkedIn Sales Navigator"
+      ]
+    },
+    {
+      "group": "Performance Marketing",
+      "items": [
+        "Meta Ads Manager",
+        "media buying",
+        "creative testing",
+        "campaign analytics",
+        "performance reporting",
+        "landing pages"
+      ]
+    },
+    {
+      "group": "Creative & Generative AI",
+      "items": [
+        "Figma (incl. Figma MCP)",
+        "Adobe Creative Suite (incl. After Effects)",
+        "Nano Banana",
+        "Midjourney",
+        "Flux",
+        "Runway",
+        "Kling",
+        "Higgsfield",
+        "ElevenLabs"
+      ]
+    },
+    {
+      "group": "Collaboration",
+      "items": [
+        "ClickUp",
+        "Slack",
+        "Notion"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "German",
+      "level": "native"
+    },
+    {
+      "name": "English",
+      "level": "fluent"
+    }
+  ],
+  "interests": "Business, design, music production and guitar, cooking, padel, tennis, volleyball, fitness, self-development",
+  "projects": [
+    {
+      "id": "dashboard",
+      "demo_note": "Demo with fictional data",
+      "org": "Hammerjobs",
+      "title": "Performance dashboard",
+      "teaser": "One view across 40+ client accounts, built on the Meta Marketing API and the in-house ATS API.",
+      "context": "With 40+ clients, management lost track of which campaigns were performing and which were not.",
+      "solution": "A dashboard that combines Meta campaign data and the ATS API, ranks clients by performance and makes bottlenecks visible.",
+      "stack": [
+        "Claude Code",
+        "Meta MCP",
+        "ATS API",
+        "Custom frontend"
+      ],
+      "result": "The basis for the weekly performance updates, with focus on the biggest bottlenecks.",
+      "link": ""
+    },
+    {
+      "id": "review-portal",
+      "org": "Hammerjobs",
+      "title": "Social media automation with review portal",
+      "teaser": "One click turns client material into a full year of social media content, approved in a custom portal.",
+      "context": "Social media packages with a full year of content per client. Review loops via email and PDF are slow and hard to follow.",
+      "solution": "Fully automated post creation: client material such as photos and videos, web research and the strategy are the input, and the strategy is broken down into individual posts. Custom-built skills turn the raw material into finished Instagram and Facebook posts with copy that feels authentic and humorous. Everything is delivered to a custom portal where clients see the posts as they will appear on Instagram, comment directly and mark feedback as resolved.",
+      "stack": [
+        "Claude Code",
+        "Claude Skills",
+        "LLM pipelines",
+        "Netlify"
+      ],
+      "result": "Several client packages delivered solo: one click produces a full year of authentic social media content that generates reach and builds trust. Clients praise how simple the review is.",
+      "link": ""
+    },
+    {
+      "id": "campaign-production",
+      "org": "Hammerjobs",
+      "title": "AI campaign production",
+      "teaser": "About 90% less time per campaign: from about 2.5 hours to about 15 minutes.",
+      "context": "A single campaign, including visuals, ad copy and landing page, took about 2.5 hours of manual work.",
+      "solution": "An automated pipeline in Make.com: client questionnaires are the input, and automated web research enriches the data. From that it generates ad copy (JSON schema), graphics, AI imagery where needed, landing pages, the campaign setup and in some cases edited videos. Creatives are built in Figma via the Figma MCP, so everything stays editable afterwards.",
+      "stack": [
+        "Claude API",
+        "OpenAI API",
+        "Make.com",
+        "Nano Banana",
+        "Figma MCP"
+      ],
+      "result": "About 15 minutes per campaign including review instead of about 2.5 hours: a time saving of about 90%.",
+      "link": ""
+    },
+    {
+      "id": "lead-pipeline",
+      "org": "Hammerjobs",
+      "title": "Lead pipeline from job ads",
+      "teaser": "Job ad scraping plus Clay enrichment instead of paid lead software.",
+      "context": "Purchased leads were expensive and inaccurate.",
+      "solution": "Concept and prototype for scraping job ads and enriching them with Clay, as the foundation for cold email campaigns.",
+      "stack": [
+        "Make.com",
+        "Apify",
+        "Clay",
+        "Close",
+        "Lemlist",
+        "Instantly"
+      ],
+      "result": "Approach adopted by the whole team: in-house lead scraping from job ads, saving several hundred euros per month on lead software.",
+      "link": ""
+    },
+    {
+      "id": "ad-library",
+      "org": "Elevion",
+      "title": "Mnemos: a better Meta Ad Library",
+      "teaser": "Ad tracking for competitors: see what works right now and which ads generate reach.",
+      "context": "The official Meta Ad Library is too cumbersome for systematic research.",
+      "solution": "Mnemos tracks competitors' ads and shows what is currently working and which ads generate the most reach. In short: the Meta Ad Library as a tool that is actually pleasant to use.",
+      "stack": [
+        "Claude Code",
+        "Supabase"
+      ],
+      "result": "",
+      "link": "https://elevion.studio/mnemos"
+    },
+    {
+      "id": "fonio",
+      "org": "Elevion",
+      "title": "Creatives for fonio.ai",
+      "teaser": "Static ads for a scaling Austrian startup, validated across multiple markets.",
+      "context": "fonio.ai, an AI phone assistant from Vienna, is scaling across Europe and worldwide.",
+      "solution": "Static ad series in several visual styles, built with generative AI and Figma.",
+      "stack": [
+        "Nano Banana",
+        "Figma"
+      ],
+      "result": "Validated across multiple markets and live for months. The top 3 ads alone generated several million impressions in DACH.",
+      "link": "",
+      "reel_label": "A selection of static ads for fonio.ai"
+    },
+    {
+      "id": "claude-skills",
+      "org": "Elevion",
+      "title": "Claude Skills for image generation",
+      "teaser": "Custom skills for product photography in various looks, including candid film editorial, high-end editorial and candid UGC.",
+      "context": "",
+      "solution": "Custom skills for AI image generation with camera, lens and film stock systems, in various looks, including candid film editorial (shot on film), high-end editorial and candid UGC (shot on iPhone). The main use case is product photography for ads.",
+      "stack": [
+        "Claude Skills",
+        "Nano Banana"
+      ],
+      "result": "",
+      "link": "",
+      "reel_label": "Ad with imagery from the skills"
+    },
+    {
+      "id": "fatigue-calculator",
+      "org": "Elevion",
+      "title": "Creative Fatigue Calculator",
+      "teaser": "A bilingual calculator built as a lead magnet for Elevion.",
+      "context": "",
+      "solution": "A bilingual calculator built as a lead magnet for Elevion.",
+      "stack": [
+        "HTML",
+        "JavaScript",
+        "Netlify Forms"
+      ],
+      "result": "",
+      "link": "https://elevion.studio/creative-rechner.html"
+    },
+    {
+      "id": "keynote-intro",
+      "org": "Vogel",
+      "title": "Keynote intro \"AI in marketing\"",
+      "teaser": "An elaborate motion design intro for a keynote talk.",
+      "context": "",
+      "solution": "An elaborate motion design intro for a keynote on AI in marketing, built in After Effects with Midjourney imagery.",
+      "stack": [
+        "After Effects",
+        "Midjourney"
+      ],
+      "result": "Highly praised internally.",
+      "link": ""
+    }
+  ]
+}
