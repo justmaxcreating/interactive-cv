@@ -119,6 +119,25 @@
   ],
   "experience": [
     {
+      "company": "Elevion (elevion.studio)",
+      "location": "",
+      "positions": [
+        {
+          "title": "Founder",
+          "dates": "Nov 2025 to Present"
+        }
+      ],
+      "description": "AI-native performance design studio for D2C brands and agencies in the DACH region.",
+      "bullets": [
+        "Produce static ad creative with generative AI (Nano Banana, Midjourney, Flux) and Figma for clients including fonio.ai (Vienna, AI phone assistant) and Teeth Lovers (D2C oral care). The fonio.ai ads were validated across multiple markets and ran for months; the top 3 alone generated several million impressions in DACH.",
+        "Built a localization workflow that adapts ad creatives directly in Figma via Claude Code and the Figma MCP.",
+        "Built custom Claude Skills for editorial and analog-film image generation (camera, lens and film stock systems) that standardize creative quality across projects.",
+        "Built Mnemos (elevion.studio/mnemos), an ad tracking tool that monitors competitor ads and their reach, as a better alternative to the Meta Ad Library (Claude Code, Supabase).",
+        "Ran cold email outbound to 1,000+ DACH leads with a positive reply rate of about 20%.",
+        "Built a Creative Fatigue Calculator as a bilingual lead magnet (HTML, Netlify Forms)."
+      ]
+    },
+    {
       "company": "Hammerjobs",
       "location": "remote",
       "positions": [
@@ -141,25 +160,6 @@
         "Create performance reports for key accounts including Unternehmensgruppe Müller, supporting retention of major clients.",
         "Run cold email outbound for new client acquisition (Lemlist, Instantly): 0.5% email-to-client conversion with a 2% positive reply rate. Initiated an in-house lead pipeline from job ad scraping and Clay enrichment; the approach was adopted by the whole team and saves several hundred euros per month on lead software.",
         "Created a master prompt system with JSON schema to generate recruiting ad copy, benefit and task rewrites at scale."
-      ]
-    },
-    {
-      "company": "Elevion (elevion.studio)",
-      "location": "",
-      "positions": [
-        {
-          "title": "Founder",
-          "dates": "Nov 2025 to Present"
-        }
-      ],
-      "description": "AI-native performance design studio for D2C brands and agencies in the DACH region.",
-      "bullets": [
-        "Produce static ad creative with generative AI (Nano Banana, Midjourney, Flux) and Figma for clients including fonio.ai (Vienna, AI phone assistant) and Teeth Lovers (D2C oral care). The fonio.ai ads were validated across multiple markets and ran for months; the top 3 alone generated several million impressions in DACH.",
-        "Built a localization workflow that adapts ad creatives directly in Figma via Claude Code and the Figma MCP.",
-        "Built custom Claude Skills for editorial and analog-film image generation (camera, lens and film stock systems) that standardize creative quality across projects.",
-        "Built Mnemos (elevion.studio/mnemos), an ad tracking tool that monitors competitor ads and their reach, as a better alternative to the Meta Ad Library (Claude Code, Supabase).",
-        "Ran cold email outbound to 1,000+ DACH leads with a positive reply rate of about 20%.",
-        "Built a Creative Fatigue Calculator as a bilingual lead magnet (HTML, Netlify Forms)."
       ]
     },
     {

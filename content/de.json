@@ -119,6 +119,25 @@
   ],
   "experience": [
     {
+      "company": "Elevion (elevion.studio)",
+      "location": "",
+      "positions": [
+        {
+          "title": "Gründer",
+          "dates": "seit Nov. 2025"
+        }
+      ],
+      "description": "KI-natives Performance-Design-Studio für D2C-Marken und Agenturen im DACH-Raum.",
+      "bullets": [
+        "Produktion von Static Ads mit generativer KI (Nano Banana, Midjourney, Flux) und Figma, u. a. für fonio.ai (Wien, KI-Telefonassistent) und Teeth Lovers (D2C-Mundpflege). Die fonio.ai-Ads wurden über mehrere Märkte validiert und liefen über Monate, allein die Top 3 erzielten im DACH-Raum mehrere Millionen Impressionen.",
+        "Aufbau eines Lokalisierungs-Workflows, der Anzeigen-Creatives über Claude Code und den Figma MCP direkt in Figma anpasst.",
+        "Entwicklung eigener Claude Skills für Editorial- und Analogfilm-Bildgenerierung (Kamera-, Objektiv- und Filmmaterial-Systeme), die die kreative Qualität über Projekte hinweg standardisieren.",
+        "Entwicklung von Mnemos (elevion.studio/mnemos), einem Ad-Tracking-Tool, das Wettbewerber-Ads und deren Reichweite beobachtet, als bessere Alternative zur Meta Ad Library (Claude Code, Supabase).",
+        "Cold-E-Mail-Kampagnen an 1.000+ DACH-Leads mit ca. 20 % Positive Reply Rate.",
+        "Entwicklung eines Creative Fatigue Calculators als zweisprachiger Lead-Magnet (HTML, Netlify Forms)."
+      ]
+    },
+    {
       "company": "Hammerjobs",
       "location": "remote",
       "positions": [
@@ -141,25 +160,6 @@
         "Erstellung von Performance-Reports für Großkunden wie die Unternehmensgruppe Müller zur Sicherung der Bestandskundenzufriedenheit.",
         "Cold-E-Mail-Akquise für Neukunden (Lemlist, Instantly): 0,5 % Conversion von E-Mail zu Neukunde bei 2 % Positive Reply Rate. Konzept für eine Inhouse-Lead-Pipeline aus Stellenanzeigen-Scraping und Clay-Anreicherung, die das ganze Team übernommen hat und mehrere hundert Euro pro Monat an Lead-Software spart.",
         "Aufbau eines Master-Prompt-Systems mit JSON-Schema für Recruiting-Anzeigentexte sowie Benefit- und Aufgaben-Rewrites in großer Stückzahl."
-      ]
-    },
-    {
-      "company": "Elevion (elevion.studio)",
-      "location": "",
-      "positions": [
-        {
-          "title": "Gründer",
-          "dates": "seit Nov. 2025"
-        }
-      ],
-      "description": "KI-natives Performance-Design-Studio für D2C-Marken und Agenturen im DACH-Raum.",
-      "bullets": [
-        "Produktion von Static Ads mit generativer KI (Nano Banana, Midjourney, Flux) und Figma, u. a. für fonio.ai (Wien, KI-Telefonassistent) und Teeth Lovers (D2C-Mundpflege). Die fonio.ai-Ads wurden über mehrere Märkte validiert und liefen über Monate, allein die Top 3 erzielten im DACH-Raum mehrere Millionen Impressionen.",
-        "Aufbau eines Lokalisierungs-Workflows, der Anzeigen-Creatives über Claude Code und den Figma MCP direkt in Figma anpasst.",
-        "Entwicklung eigener Claude Skills für Editorial- und Analogfilm-Bildgenerierung (Kamera-, Objektiv- und Filmmaterial-Systeme), die die kreative Qualität über Projekte hinweg standardisieren.",
-        "Entwicklung von Mnemos (elevion.studio/mnemos), einem Ad-Tracking-Tool, das Wettbewerber-Ads und deren Reichweite beobachtet, als bessere Alternative zur Meta Ad Library (Claude Code, Supabase).",
-        "Cold-E-Mail-Kampagnen an 1.000+ DACH-Leads mit ca. 20 % Positive Reply Rate.",
-        "Entwicklung eines Creative Fatigue Calculators als zweisprachiger Lead-Magnet (HTML, Netlify Forms)."
       ]
     },
     {

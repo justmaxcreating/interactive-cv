@@ -283,7 +283,7 @@ h3 strong { font-weight: 800; }
 .dates { font-size: 8.5pt; font-weight: 600; color: var(--gray); white-space: nowrap; }
 .desc { color: var(--gray); font-size: 9pt; margin-top: .4mm; }
 ul { margin: .8mm 0 0; padding-left: 4mm; }
-li { margin-bottom: .45mm; break-inside: avoid; padding-left: .5mm; }
+li { margin-bottom: .45mm; orphans: 2; widows: 2; padding-left: .5mm; }
 li::marker { color: var(--red); }
 .skill { margin-bottom: .9mm; }
 mark.todo { background: #FFE58A; font-weight: 600; }
